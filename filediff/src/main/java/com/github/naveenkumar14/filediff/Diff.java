@@ -1,4 +1,4 @@
-package com.gitbub.naveenkumar14.filediff;
+package com.github.naveenkumar14.filediff;
 
 import java.io.IOException;
 import java.util.ArrayList;

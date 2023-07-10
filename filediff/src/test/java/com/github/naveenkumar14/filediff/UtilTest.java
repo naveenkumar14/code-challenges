@@ -1,4 +1,4 @@
-package com.gitbub.naveenkumar14.filediff;
+package com.github.naveenkumar14.filediff;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

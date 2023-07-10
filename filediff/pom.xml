@@ -110,7 +110,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>com.gitbub.naveenkumar14.filediff.Main</mainClass>
+            <mainClass>com.github.naveenkumar14.filediff.Main</mainClass>
           </manifest>
         </archive>
         <descriptorRefs>

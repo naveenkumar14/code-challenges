@@ -1,4 +1,4 @@
-package com.gitbub.naveenkumar14.filediff;
+package com.github.naveenkumar14.filediff;
 
 import java.io.BufferedReader;
 import java.io.File;
