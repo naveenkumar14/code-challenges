@@ -105,21 +105,6 @@
           </execution>
         </executions>
       </plugin>
-      <!-- <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-jar-plugin</artifactId>
-        <configuration>
-            <archive>
-                <manifest>
-                    <addClasspath>true</addClasspath>
-                    <classpathPrefix>libs/</classpathPrefix>
-                    <mainClass>
-                        com.gitbub.naveenkumar14.filediff.Main
-                    </mainClass>
-                </manifest>
-            </archive>
-        </configuration>
-    </plugin> -->
     <plugin>
       <artifactId>maven-assembly-plugin</artifactId>
       <configuration>
@@ -134,8 +119,8 @@
       </configuration>
       <executions>
         <execution>
-          <id>make-assembly</id> <!-- this is used for inheritance merges -->
-          <phase>package</phase> <!-- bind to the packaging phase -->
+          <id>make-assembly</id>
+          <phase>package</phase>
           <goals>
             <goal>single</goal>
           </goals>
